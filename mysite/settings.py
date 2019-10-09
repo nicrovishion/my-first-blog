@@ -25,7 +25,7 @@ SECRET_KEY = '+=nb8(fa6dsjpnw-*vm)pxl@of2d*-cns73#q3$dm-obd$-$b^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'nicrovishion.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'nicrovishion.pythonanywhere.com', '*']
 
 
 # Application definition
